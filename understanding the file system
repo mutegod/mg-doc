@@ -1,0 +1,12 @@
+most of the files you might want to customize (config, material, model, particle, sound, map files and more) stem from the directory 
+ | C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf
+ 
+ the complete range of files are compiled into valve pak files
+what is a vpk? https://developer.valvesoftware.com/wiki/VPK
+
+how do we view / extract files from vpks? https://developer.valvesoftware.com/wiki/GCFScape
+
+relevant extracted files goto tf/custom/[folder]/ (you can rename this folder to whatever you like) in the same directory tree they came from
+
+think of tf/custom/[folder] as /tf for your custom files
+custom files in a complete directory tree can be dragged on top of vpk.exe in \Team Fortress 2\bin to compile and create vpks
